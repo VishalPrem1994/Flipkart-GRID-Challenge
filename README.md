@@ -1,6 +1,6 @@
 # Flipkart GRID Challenge
 
-My Submission for the competition conducted by flipkart in Feb 2019 for object localisation on a datset that they gave. The competition format was similar to Kaggle.
+My Submission for the competition conducted by flipkart in Feb 2019 for object localisation on a datset that they gave. The competition format was similar to Kaggle. Was able to reach upto Level 3 but was not shorlisted for the final round.
 
 ## CONTEST STAGES
 
