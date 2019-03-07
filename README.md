@@ -38,43 +38,43 @@ General Guidelines for Level 3
 In the final level of the GRID, finalists will be invited to the Flipkart Headquarters in Bangalore for the last round of evaluation from Flipkart Data Scientists and Engineering panel.
 List of Eligible Engineering Colleges
 
--Banasthali University (BU), Jaipur
--Bharati Vidyapeeth's College of Engineering for Women (BVCEW), Katraj, Pune
--Birla Institute of Technology (BIT), Mesra, Lalpur, Ranchi
--Birla Institute of Technology and Science (BITS), Pilani
--Birla Institute of Technology and Sciences (BITS), Pilani, Goa Campus
--Birla Institute of Technology and Sciences (BITS), Pilani, Hyderabad Campus
--BVRIT Hyderabad College of Engineering for Women (BVRIT HCEW), Hyderabad, Telangana
--College of Engineering (COE), Pune
--Cummins College of Engineering For Women (CCOEW), Pune
--Delhi Technological University (DTU), New Delhi
--Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT), Gandhinagar
--Indian Institute of Information Technology (IIIT), Jhalwa, Allahabad, Uttar -Pradesh
--Indian Institute of Science (IISc), Bangalore
--Indian Institute of Technology (IIT) (BHU) Varanasi
--Indian Institute Of Technology (IIT) (ISM) Dhanbad
--Indian Institute of Technology (IIT), Bombay
--Indian Institute of Technology (IIT), Delhi
--Indian Institute of Technology (IIT), Gandhinagar
--Indian Institute of Technology (IIT), Guwahati
--Indian Institute of Technology (IIT), Hyderabad
--Indian Institute of Technology (IIT), Kanpur
--Indian Institute of Technology (IIT), Kharagpur
--Indian Institute of Technology (IIT), Madras
--Indian Institute of Technology (IIT), Mandi
--Indian Institute of Technology (IIT), Palakkad
--Indian Institute of Technology (IIT), Roorkee
--Indian Institute of Technology (IIT), Ropar
--International Institute of information Technology (IIIT), Bangalore
--International Institute of Information Technology (IIIT), Hyderabad
--Malaviya National Institute of Technology (MNIT), Jaipur
--Manipal Institute of Technology (MIT), Manipal
--Maulana Azad National Institute of Technology (MANIT), Bhopal
--Motilal Nehru National Institute of Technology (MNNIT), Allahabad
--National Institute of Technology (NIT), Calicut
--National Institute of Technology (NIT), Kurukshetra
--National Institute of Technology (NIT), Surathkal
--National Institute of Technology (NIT), Trichy
--Netaji Subhas University of Technology (NSUT), Delhi
--Punjab Engineering College (PEC), Chandigarh
--Vellore Institute of Technology (VIT), Vellore
+* Banasthali University (BU), Jaipur
+* Bharati Vidyapeeth's College of Engineering for Women (BVCEW), Katraj, Pune
+* Birla Institute of Technology (BIT), Mesra, Lalpur, Ranchi
+* Birla Institute of Technology and Science (BITS), Pilani
+* Birla Institute of Technology and Sciences (BITS), Pilani, Goa Campus
+* Birla Institute of Technology and Sciences (BITS), Pilani, Hyderabad Campus
+* BVRIT Hyderabad College of Engineering for Women (BVRIT HCEW), Hyderabad, Telangana
+* College of Engineering (COE), Pune
+* Cummins College of Engineering For Women (CCOEW), Pune
+* Delhi Technological University (DTU), New Delhi
+* Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT), Gandhinagar
+* Indian Institute of Information Technology (IIIT), Jhalwa, Allahabad, Uttar Pradesh
+* Indian Institute of Science (IISc), Bangalore
+* Indian Institute of Technology (IIT) (BHU) Varanasi
+* Indian Institute Of Technology (IIT) (ISM) Dhanbad
+* Indian Institute of Technology (IIT), Bombay
+* Indian Institute of Technology (IIT), Delhi
+* Indian Institute of Technology (IIT), Gandhinagar
+* Indian Institute of Technology (IIT), Guwahati
+* Indian Institute of Technology (IIT), Hyderabad
+* Indian Institute of Technology (IIT), Kanpur
+* Indian Institute of Technology (IIT), Kharagpur
+* Indian Institute of Technology (IIT), Madras
+* Indian Institute of Technology (IIT), Mandi
+* Indian Institute of Technology (IIT), Palakkad
+* Indian Institute of Technology (IIT), Roorkee
+* Indian Institute of Technology (IIT), Ropar
+* International Institute of information Technology (IIIT), Bangalore
+* International Institute of Information Technology (IIIT), Hyderabad
+* Malaviya National Institute of Technology (MNIT), Jaipur
+* Manipal Institute of Technology (MIT), Manipal
+* Maulana Azad National Institute of Technology (MANIT), Bhopal
+* Motilal Nehru National Institute of Technology (MNNIT), Allahabad
+* National Institute of Technology (NIT), Calicut
+* National Institute of Technology (NIT), Kurukshetra
+* National Institute of Technology (NIT), Surathkal
+* National Institute of Technology (NIT), Trichy
+* Netaji Subhas University of Technology (NSUT), Delhi
+* Punjab Engineering College (PEC), Chandigarh
+* Vellore Institute of Technology (VIT), Vellore
